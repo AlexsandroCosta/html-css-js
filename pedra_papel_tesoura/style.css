@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(56, 175, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    font-size: large;
+}
+
+section{
+    text-align: center;
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    color: black;
+    padding: 15px;
+}
+
+div{
+    width: 295px;
+    display: inline-block;
+    text-align: center;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+}
+
+button{
+    margin-top: 15px;
+    padding: 5px;
+}
