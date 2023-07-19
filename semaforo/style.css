@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(158, 157, 157);
+}
+
+section{
+    width: 300px;
+    height: 530px;
+    background-color: black;
+    border-radius: 50px;
+    margin: auto;
+    text-align: center;
+    padding: 10px 0 0 0;
+    line-height: 50px;
+}
+
+div{
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    border-radius: 100%;
+}
+
+#red{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+#yellow{
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+#green{
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
