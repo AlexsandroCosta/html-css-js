@@ -1,0 +1,36 @@
+body{
+    background-color: gainsboro;
+}
+
+header{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#app{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#tela{
+    background-image: linear-gradient(to top, rgb(93, 93, 255), rgb(255, 42, 42));
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    position: relative;
+}
+
+#cursor{
+    width: 20px;
+    margin-top: 125px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+#flamengo{
+    padding: 20px 0 0 0;
+    text-align: center;
+}
